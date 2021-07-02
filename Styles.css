@@ -1,0 +1,23 @@
+body {
+  background-color: #fefefa;
+  color: #202121;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-size: medium;
+  line-height: 1.6em;
+  /*Verkorte versie: font: normal medium 1.6em "Open Sans", sans-serif;*/
+}
+.header {
+  background-color: #6699cc;
+  border-color: #fefefa;
+  border-style: double;
+  border-width: 5px;
+  /*Verkorte versie: border: 5px double #fefefa*/
+}
+.header-title {
+  color: #fefefa;
+  font-family: "Montserrat", sans-serif;
+}
+.sub-header {
+  color: #6699cc;
+}
